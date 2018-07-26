@@ -29,4 +29,5 @@ func main() {
 		os.Exit(1)
 	}
 	os.Exit(0)
+	fmt.Println("for learning")
 }
